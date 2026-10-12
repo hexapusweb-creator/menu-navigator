@@ -1,0 +1,56 @@
+[
+ {
+  "id": 1,
+  "title": "Paris ",
+  "details": "Paris Lorem Ipsum is simply dummy text typeseting industry",
+  "coverImage": "https://images.unsplash.com/photo-1549144511-f099e773c147?w=640&h=480&crop=entropy"
+ },
+ {
+    "id": 2,
+    "title": "Londres ",
+    "details": "Londres Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 3,
+    "title": "São Paulo ",
+    "details": "São Paulo Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1645918899630-85e2f3132a84??w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 4,
+    "title": "Paris ",
+    "details": "Paris Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1549144511-f099e773c147?w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 5,
+    "title": "Londres ",
+    "details": "Londres Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 6,
+    "title": "São Paulo ",
+    "details": "São Paulo Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1645918899630-85e2f3132a84??w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 7,
+    "title": "Paris ",
+    "details": "Paris Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1549144511-f099e773c147?w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 8,
+    "title": "Londres ",
+    "details": "Londres Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?w=640&h=480&crop=entropy"
+  },
+  {
+    "id": 9,
+    "title": "São Paulo ",
+    "details": "São Paulo Lorem Ipsum is simply dummy text typeseting industry",
+    "coverImage": "https://images.unsplash.com/photo-1645918899630-85e2f3132a84??w=640&h=480&crop=entropy"
+  }
+]
